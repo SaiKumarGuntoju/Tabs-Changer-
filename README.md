@@ -4,7 +4,7 @@
 <br/>
 <div style="text-align: center;">
 
-<img src="https://drive.google.com/file/d/1w8YImcIokdzFfjI78BdA3ChElpS138JL/view?usp=sharing" alt="gallery-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="https://res.cloudinary.com/dvi0enywv/image/upload/v1624807896/Screenshot_188_hduzdq.png" alt="gallery-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 
 </div>
 
